@@ -91,3 +91,15 @@ d
             [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
             [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 
+
+	    ***Useful links***
+
+	    https://html-online.com/editor/
+	    https://jsfiddle.net/
+	    http://codebeautify.org/css-beautify-minify
+	    http://cssdeck.com/labs
+	    http://www.cssportal.com/online-css-editor/
+	    http://www.awwwards.com/10-html-css-online-code-editors-for-web-developers.html
+	    https://designmodo.com/css-editorso/
+	    http://liveweave.com/
+
