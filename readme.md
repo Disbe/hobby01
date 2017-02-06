@@ -103,3 +103,12 @@ d
 	    https://designmodo.com/css-editorso/
 	    http://liveweave.com/
 
+	    ***Useful 2d javascript engine***
+	    http://brm.io/matter-js/
+	    http://www.html5gamedevs.com/topic/3016-list-of-javascript-2d-physics-engines/
+	    http://www.cannonjs.org/
+
+            *** FOUND useful sprite editor (maybe) ***
+	    krita  : https://krita.org/ko/
+	    and...
+	    pisket : https://www.slant.co/topics/1547/viewpoints/18/~pixel-art-sprite-editors~piskel
